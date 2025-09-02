@@ -1,0 +1,14 @@
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.exe
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.deps.json
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.runtimeconfig.json
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.dll
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.pdb
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfoInputs.cache
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfo.cs
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.dll
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\refint\StudentGradingSystem.dll
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.pdb
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.genruntimeconfig.cache
+D:\CSharp\4. Delegates Projects\StudentGradingSystem\StudentGradingSystem\obj\Debug\net8.0\ref\StudentGradingSystem.dll

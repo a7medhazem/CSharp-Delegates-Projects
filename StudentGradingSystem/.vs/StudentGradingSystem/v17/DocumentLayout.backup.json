@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|d:\\csharp\\4. delegates projects\\studentgradingsystem\\studentgradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|solutionrelative:studentgradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|d:\\csharp\\4. delegates projects\\studentgradingsystem\\studentgradingsystem\\gradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|solutionrelative:studentgradingsystem\\gradingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|d:\\csharp\\4. delegates projects\\studentgradingsystem\\studentgradingsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724FF0AC-7C83-4DE7-8BDF-A44E72C214AB}|StudentGradingSystem\\StudentGradingSystem.csproj|solutionrelative:studentgradingsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradingSystem.cs",
+              "DocumentMoniker": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\GradingSystem.cs",
+              "RelativeDocumentMoniker": "StudentGradingSystem\\GradingSystem.cs",
+              "ToolTip": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\GradingSystem.cs",
+              "RelativeToolTip": "StudentGradingSystem\\GradingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:41:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGradingSystem\\Student.cs",
+              "ToolTip": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\Student.cs",
+              "RelativeToolTip": "StudentGradingSystem\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:21:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradingSystem\\Program.cs",
+              "ToolTip": "D:\\CSharp\\4. Delegates Projects\\StudentGradingSystem\\StudentGradingSystem\\Program.cs",
+              "RelativeToolTip": "StudentGradingSystem\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:18:59.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
