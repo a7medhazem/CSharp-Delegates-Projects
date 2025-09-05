@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TemperatureSensor_ObserverPattern_
 {
+    // used for extensibility
     internal class TempEventArgs : EventArgs
     {
         public int Temperature { get; set; }
