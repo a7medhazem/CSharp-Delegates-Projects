@@ -1,4 +1,4 @@
-﻿# 🌡️ Temperature Sensor System (Version 1 - C#)
+﻿# 🌡️ Temperature Sensor System (Version 1 - Observer Pattern)
 
 A console-based project built with C# to practice the **Observer Pattern** using **Events & EventHandler**.  
 The program simulates a temperature sensor that notifies multiple subscribers (Display & Alarm) whenever the temperature changes.
