@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TemperatureSensor(V2)/1.0.0": {
+        "runtime": {
+          "TemperatureSensor(V2).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureSensor(V2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

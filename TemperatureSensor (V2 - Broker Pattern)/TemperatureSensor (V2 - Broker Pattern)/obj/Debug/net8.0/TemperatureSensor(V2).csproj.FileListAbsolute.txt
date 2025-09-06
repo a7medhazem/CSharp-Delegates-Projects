@@ -1,0 +1,14 @@
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\bin\Debug\net8.0\TemperatureSensor(V2).exe
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\bin\Debug\net8.0\TemperatureSensor(V2).deps.json
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\bin\Debug\net8.0\TemperatureSensor(V2).runtimeconfig.json
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\bin\Debug\net8.0\TemperatureSensor(V2).dll
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\bin\Debug\net8.0\TemperatureSensor(V2).pdb
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).AssemblyInfoInputs.cache
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).AssemblyInfo.cs
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).csproj.CoreCompileInputs.cache
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).dll
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\refint\TemperatureSensor(V2).dll
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).pdb
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\TemperatureSensor(V2).genruntimeconfig.cache
+D:\CSharp\4. Delegates Projects\TemperatureSensor(V2)\TemperatureSensor(V2)\obj\Debug\net8.0\ref\TemperatureSensor(V2).dll
