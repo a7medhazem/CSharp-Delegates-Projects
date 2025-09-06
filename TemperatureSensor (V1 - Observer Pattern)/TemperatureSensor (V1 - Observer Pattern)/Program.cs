@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // Temperature Sensor System (Version 1) using Observer Pattern
         static void Main(string[] args)
         {
             //sensor => (input temp)
@@ -36,6 +37,7 @@
                         case 1:
                             {
                                 Console.Write("Please enter the temprature value in degrees: ");
+                                //Input validation
                                 bool checkTemp = int.TryParse(Console.ReadLine(), out int inputTemp);
                                 if (checkTemp)
                                 {
